@@ -1,0 +1,14 @@
+Edit "index"
+
+Find this code
+
+<div id="widgetholder"><!-- <iframe src="https://locked4.com/fl/5jork" opacity="0" scrolling="no" margin-top="10px" marginwidth="0" marginheight="0" align="middle" frameborder="0" width="100%" height="250px"></iframe> --> <iframe src="https://locked4.com/fl/5jork" height="200px" marginwidth="0" marginheight="0" 
+
+Replace ("https://locked4.com/fl/5jork")  with your locker link
+
+example:
+
+<div id="widgetholder"><!-- <iframe src="your link locker here" opacity="0" scrolling="no"
+
+
+>>> Read Me: i recommend you use file locker with this 
